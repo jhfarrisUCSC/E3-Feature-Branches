@@ -24,3 +24,5 @@
 - EXPLORED: Paths are much more difficult than I thought, shape does not look as much as a hand as I thought it would.
 
 Criterion: Whichever have the most recognizability at varying distances
+
+Option B was the clearest and most recognizable.
